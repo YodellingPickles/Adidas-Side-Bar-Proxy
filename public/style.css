@@ -1,0 +1,26 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container1{
+  width: 72%;
+  /* overflow: hidden; */
+}
+
+.container3{
+  width: 72%;
+  /* margin-left: 6%; */
+}
+
+.container2{
+  width: 23%;
+  position: sticky;
+  top: 0;
+  padding-left: 3%;
+  padding-top: 1%;
+  border-left: 1px solid lightgray;
+  align-self: flex-start;
+  height: 100vh
+}
