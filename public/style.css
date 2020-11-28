@@ -9,9 +9,9 @@
 
 }
 
-.container3{
-  width: 72%;
-
+#reviews{
+  width: 73.6%;
+  margin-left: 4%;
 }
 
 .container2{
@@ -20,7 +20,7 @@
   top: 0;
   padding-left: 3%;
   padding-top: 1%;
-  border-left: 1px solid lightgray;
+  border-left: 1px solid rgb(238,240,241);
   align-self: flex-start;
   height: 100vh
 }
